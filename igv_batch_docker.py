@@ -10,7 +10,7 @@ root_dir = '/Users/petadimensionlab/tmp/tmp/' #"root_dir" is "/yourlocal_dir" se
 igv_dir = os.path.join(root_dir,'igv_dir')
 
 
-bed_file = 'cluster_Saimiri_boliviensis'
+bed_file = 'your_bedfile_name'
 
 
 with open('/condir/igv_dir/igv.bat', 'w') as f:
