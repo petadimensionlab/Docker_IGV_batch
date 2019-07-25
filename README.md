@@ -34,7 +34,7 @@ All execution result is output to the "/yourlocal_dir".
 ### Running IGV with a batch file
 can load a batch file by using " Tools > Run Batch Script ".
 
-Manual page here:https = https://software.broadinstitute.org/software/igv/batch
+Manual page here = https://software.broadinstitute.org/software/igv/batch
 
 #### exit docker
 ```
