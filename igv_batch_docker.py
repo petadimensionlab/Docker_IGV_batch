@@ -6,7 +6,7 @@ species = 'hg38'
 genome_dir = '/Users/yourname/ws/ref/genome/' #your local genome dir
 genomeFastaFile = os.path.join(genome_dir,species)
 
-root_dir = '/Users/petadimensionlab/tmp/tmp/'
+root_dir = '/Users/petadimensionlab/tmp/tmp/' #"root_dir" is "/yourlocal_dir" set by run.
 igv_dir = os.path.join(root_dir,'igv_dir')
 
 
